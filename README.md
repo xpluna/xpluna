@@ -1,16 +1,26 @@
-### Hi there 👋
+## About Me
 
-<!--
-**karldino/karldino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 Hi, I’m karldino
+- 👀 A Python enthusiast
+- 📫 Discord: Karle#1352
 
-Here are some ideas to get you started:
+## My stats
+[![My stats](https://github-readme-stats.vercel.app/api?username=karldino)](https://github.com/karldino/github-readme-stats)
+<br></br>
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karldino&layout=compact)](https://github.com/karldino/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages I know:
+
+<ul>
+  <li>English</li>
+  <li>Deutsch</li>
+  <li>Python</li>
+  <li>QBASIC</li>
+</ul>
+
+## Languages I'm learning
+
+<ul>
+  <li>C++</li>
+  <li>JavaScript</li>
+</ul>
