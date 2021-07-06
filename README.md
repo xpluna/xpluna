@@ -12,10 +12,10 @@
 ## Languages I know:
 
 <ul>
-  <li>English</li>
-  <li>Deutsch</li>
-  <li>Python</li>
-  <li>QBASIC</li>
+  <li>English 🇬🇧</li>
+  <li>Deutsch 🇩🇪</li>
+  <li>Python 🐍</li>
+  <li>QBASIC 😅</li>
 </ul>
 
 ## Languages I'm learning
