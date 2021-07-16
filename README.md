@@ -4,9 +4,9 @@
 - 📫 Discord: xpbliss#1352
 
 ## My stats
-[![My stats](https://github-readme-stats.vercel.app/api?username=karldino)](https://github.com/karldino/github-readme-stats)
+[![My stats](https://github-readme-stats.vercel.app/api?username=xpluna)](https://github.com/xpluna/github-readme-stats)
 <br></br>
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karldino&layout=compact)](https://github.com/karldino/github-readme-stats)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xpluna&layout=compact)](https://github.com/xpluna/github-readme-stats)
 
 ## The only language I know:
 
