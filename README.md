@@ -1,6 +1,5 @@
 ## About Me
 
-- 👋 Hi, I’m karldino
 - 🐍 Python enthusiast
 - 📫 Discord: xpbliss#1352
 
