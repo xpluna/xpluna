@@ -1,8 +1,8 @@
 ## About Me
 
 - 👋 Hi, I’m karldino
-- 🐍 A Python enthusiast
-- 📫 Discord: Karle#1352
+- 🐍 Python enthusiast
+- 📫 Discord: xpbliss#1352
 
 ## My stats
 [![My stats](https://github-readme-stats.vercel.app/api?username=karldino)](https://github.com/karldino/github-readme-stats)
