@@ -1,7 +1,7 @@
 ## About Me
 
 - 🐍 Python enthusiast
-- 📫 Discord: xpbliss#1352
+- 📫 Discord: xpbliss#5178
 
 ## My stats
 [![My stats](https://github-readme-stats.vercel.app/api?username=xpluna)](https://github.com/xpluna/github-readme-stats)
