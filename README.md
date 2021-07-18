@@ -4,9 +4,9 @@
 - 📫 Discord: xpbliss#5178
 
 ## My stats
-[![My stats](https://github-readme-stats.vercel.app/api?username=xpluna)](https://github.com/xpluna/github-readme-stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=xpluna&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true)
 <br></br>
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xpluna&layout=compact)](https://github.com/xpluna/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xpluna&layout=compact&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true)
 
 ## The only language I know:
 
