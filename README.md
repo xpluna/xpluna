@@ -13,10 +13,3 @@
 <ul>
   <li>Python 🐍</li>
 </ul>
-
-## Languages I'm learning
-
-<ul>
-  <li>C++</li>
-  <li>JavaScript</li>
-</ul>
