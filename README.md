@@ -22,6 +22,6 @@
 
 ## Soon™
 </ul>
-  <li>C++</li>
+  <li><del>C++</del> Perl</li>
   <li>imba</li>
 </ul>
