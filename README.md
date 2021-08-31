@@ -9,7 +9,7 @@
 <br></br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xpluna&layout=compact&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true)
 
-## Good at
+## Main lang
 <ul>
   <li>Python</li>
 </ul>
@@ -22,6 +22,6 @@
 
 ## Soon™
 </ul>
-  <li><del>C++</del> Perl</li>
-  <li>imba</li>
+  <li><del>C++</del> Perl (for golfing only)</li>
+  <li>imba (testing)</li>
 </ul>
