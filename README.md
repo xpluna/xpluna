@@ -22,6 +22,6 @@
 
 ## Soon™
 </ul>
-  <li><del>C++</del> Perl (for golfing only)</li>
+  <li>Perl (for golfing only)</li>
   <li>imba (testing)</li>
 </ul>
