@@ -1,15 +1,18 @@
 ## About Me
 
-- Math enthusiast
+<div>
+	<img height="150em" src="https://github-readme-stats.vercel.app/api?username=xpluna&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true">
+	<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xpluna&layout=compact&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true">
+</div><br>
+
+<div>
+  	<img align="center" height="32em" width="32em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> • 
+    <img align="center" height="32em" width="32em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"> • 
+    <img align="center" height="32em" width="32em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg"> • 
+    <img align="center" height="32em" width="32em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> • 
+    <img align="center" height="32em" width="32em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+</div>
+
+![Snake animation](https://github.com/xpluna/xpluna/blob/output/github-contribution-grid-snake.svg)
+
 - 📫 Discord: xpbliss#5178
-
-## Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=xpluna&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true)
-<br></br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xpluna&layout=compact&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true)
-
-## Main lang
-<ul><li>Python</li></ul>
-
-## WIP
-<ul><li>Kotlin</li><li>HTML5 & CSS3 [markup]</li><li>Perl (for golfing only)</li><li>imba (testing)</li><li>C# and C++ (testing)</li></ul>
