@@ -13,6 +13,4 @@
     <img align="center" height="32em" width="32em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 </div>
 
-![Snake animation](https://github.com/xpluna/xpluna/blob/output/github-contribution-grid-snake.svg)
-
 - 📫 Discord: xpbliss#5178
