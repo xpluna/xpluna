@@ -15,4 +15,4 @@
 
 <br>
 
-- 📫 Discord: xpbliss#5178
+📫 Discord: `xpbliss#5178`
