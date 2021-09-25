@@ -17,4 +17,6 @@
 
 <br>
 
-📫 Discord: `xpbliss#5178`
+## Contact
+
+Discord: `xpbliss#5178`
