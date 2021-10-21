@@ -13,7 +13,8 @@
     <img align="center" height="32em" width="32em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg"> • 
     <img align="center" height="32em" width="32em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> • 
     <img align="center" height="32em" width="32em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> • 
-    <img align="center" height="32em" width="32em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img align="center" height="32em" width="32em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> • 
+    <img align="center" height="32em" width="32em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
 
 <br>
